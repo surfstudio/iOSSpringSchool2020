@@ -3,4 +3,13 @@
 
 $header-bg-color-secondary: rgb(235, 55, 93);
 $header-bg-color: rgb(00, 04, 61);
+h2 {
+  color: rgb(235, 55, 93);
+}
+a {
+  color: rgb(00, 04, 61);
+}
+table {
+  padding: 50;
+}
 @import "{{ site.theme }}";

@@ -4,7 +4,7 @@
 
 ## План занятий
 
-1. 6.04 [Начало](lectures/lecture1/README.md)
+1. 6.04 [Знакомство](lectures/lecture1/README.md)
 2. 8.04 [Инструментарий](lectures/lecture2/README.md)
 3. 13.04 [Swift](lectures/lecture3/README.md)
 4. 15.04 [Приложение и навигация](lectures/lecture4/README.md)

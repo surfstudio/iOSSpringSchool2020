@@ -4,6 +4,8 @@
 
 ## 📚 Материалы
 
-[x](/lectures/lecture3/X/x.swift)
+[x](/X/x.swift)
 
 ## 🖇️ Ссылки
+
+[y](https://meduza.io)

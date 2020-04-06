@@ -4,16 +4,16 @@
 
 ## План занятий
 
-1. 6.04 [Знакомство](lectures/lecture1/README.md)
-2. 8.04 [Инструментарий](lectures/lecture2/README.md)
-3. 13.04 [Swift](lectures/lecture3/README.md)
-4. 15.04 [Приложение и навигация](lectures/lecture4/README.md)
-5. 20.04 [User Interface](lectures/lecture5/README.md)
-6. 22.04 [Данные. Получение и отправка](lectures/lecture6/README.md)
-7. 27.04 [Данные. Обработка и хранение](lectures/lecture7/README.md)
-8. 29.04 [Работа с асинхронными задачами](lectures/lecture8/README.md)
-9. 4.05 [iOS разработчик](lectures/lecture9/README.md)
-10. 6.05 [Итоги](lectures/lecture10/README.md)
+1. [6.04 Начало](lectures/lecture01/README.md)
+2. 8.04 Инструментарий
+3. 13.04 Swift
+4. 15.04 Приложение и навигация
+5. 20.04 User Interface
+6. 22.04 Данные. Получение и отправка
+7. 27.04 Данные. Обработка и хранение
+8. 29.04 Работа с асинхронными задачами
+9. 4.05 iOS разработчик
+10. 6.05 Заключительная лекция
 
 ## Практика
 

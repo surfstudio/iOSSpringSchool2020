@@ -16,3 +16,9 @@ a {
 a.btn {
   color: rgb(255, 255, 255) !important;
 }
+
+@media screen and (min-width: 94rem) {
+    .main-content {
+        max-width: 94rem !important;
+    }
+}

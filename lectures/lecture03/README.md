@@ -11,7 +11,7 @@
 
 ## 🖇️ Ссылки
 
-[Итоговая версия playground'а](lectures/lecture03/swift_tutorial.playground)
+[Итоговая версия playground'а](swift_tutorial.playground.zip)
 
 [1]: https://developer.apple.com/swift/
 [2]: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html

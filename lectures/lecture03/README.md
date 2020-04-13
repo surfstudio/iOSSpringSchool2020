@@ -1,17 +1,17 @@
-# Занятие 3. Swift
+**[🏫 Главная страница школы](../../README.md) / 🕊️ Занятие 3. Swift**
 
-## 🏫 [Главная страница школы](../../README.md)
+# 🕊️ Занятие 1. Swift
 
 ## 📚 Материалы
 
-*  [Красивая страница про Swift от Apple][1] 
-*  [Swift Tour][2] 
-*  [Swift documentation][3] 
-*  [Hacking with Swift][4]
+[Итоговая версия playground'а](swift_tutorial.playground.zip)
 
 ## 🖇️ Ссылки
 
-[Итоговая версия playground'а](swift_tutorial.playground.zip)
+[Красивая страница про Swift от Apple][1] <br>
+[Swift Tour][2] <br>
+[Swift documentation][3] <br>
+[Hacking with Swift][4] <br>
 
 [1]: https://developer.apple.com/swift/
 [2]: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html

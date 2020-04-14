@@ -15,7 +15,7 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/Dw_smBwvth_xRoABWo3TKQ)**|Затонская Юлия|16. Интернет радио|||
 ||Демьянов Дмитрий|8. Файловый менеджер VK||🚀🧰|
 ||Маевский Владислав|1. Приложение для учета выпитой воды|||
-||Абдулаев Магомед|3. Картина в AR||🧰|
+||Абдулаев Магомед|3. Картина в AR|[Marcus05dag/FirstRepository](https://github.com/Marcus05dag/FirstRepository)|🧰|
 ||||||
 |**Шабанов**|Быков Алексей|6. Гайд по персонажам Marvel|[AlexeyBull/iOSSpringSchoolSurf](https://github.com/AlexeyBull/iOSSpringSchoolSurf)|🧰|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DIFS4xrLMrpFNOsnl-8Uew)**|Решетов Виктор|14. RestRoulette|[CocoRyse/RestRoulette](https://github.com/CocoRyse/RestRoulette)||

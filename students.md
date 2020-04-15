@@ -26,7 +26,7 @@
 |**Бернгардт**|Сегал Захар|x. Apex Tracker|https://github.com/sofvckinmadguy/ApexTracker||
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/ExB7NEmj4lQRsPVbHiEBxw)**|Новгородов Евгений|5. Справочник продуктов питания|[Blissfulman/FoodReferenceBook](https://github.com/Blissfulman/FoodReferenceBook)|🚀🕊️|
 ||Родионов Дмитрий|12. Классификатор изображений||🚀🕊️|
-||Колесникова Майя|1. Приложение для учета выпитой воды||🧰|
+||Колесникова Майя|1. Приложение для учета выпитой воды|[MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰|
 ||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️|
 ||Пастухова Кристина|x. Codenames||🚀|
 ||||||

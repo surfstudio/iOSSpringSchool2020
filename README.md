@@ -7,7 +7,7 @@
 1. [6.04 Начало](lectures/lecture01/README.md)
 2. [8.04 Инструментарий](lectures/lecture02/README.md)
 3. [13.04 Swift](lectures/lecture03/README.md)
-4. 15.04 Приложение и навигация
+4. [15.04 Приложение и навигация](lectures/lecture04/README.md)
 5. 20.04 User Interface
 6. 22.04 Данные. Получение и отправка
 7. 27.04 Данные. Обработка и хранение

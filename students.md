@@ -34,7 +34,7 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR||🚀|
 ||Дунаев Владислав|7. Просмотрщик xkcd комиксов|||
 ||Межевов Кирилл|9. Гайд по уровням жизни в городах||🚀|
-||Владыкина Анастасия|16. Интернет радио||🚀🧰🕊️|
+||Владыкина Анастасия|16. Интернет радио|[AVladykina/SurfSchoolRadio](https://github.com/AVladykina/SurfSchoolRadio)|🚀🧰🕊️|
 ||||||
 |**Филимонов**|Ананьев Никита|15. Мой сад|[D1nsth/MyGarden](https://github.com/D1nsth/MyGarden)|🚀🧰🕊️|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/EXbamxYk9un0x8O_NdhpvQ)**|Кожевников Никита|1. Приложение для учета выпитой воды||🚀|

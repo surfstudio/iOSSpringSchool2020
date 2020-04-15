@@ -13,7 +13,7 @@
 ||||||
 |**Монаков**|Емельянов Егор|14. RestRoulette|[EgorIden/RestRouletteApp-Surf](https://github.com/EgorIden/RestRouletteApp-Surf)||
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/Dw_smBwvth_xRoABWo3TKQ)**|Затонская Юлия|16. Интернет радио|[zatonskayay/Online-Radio](https://github.com/zatonskayay/Online-Radio)||
-||Демьянов Дмитрий|8. Файловый менеджер VK||🚀🧰🕊️|
+||Демьянов Дмитрий|8. Файловый менеджер VK|[dmitryd20/vk-files](https://github.com/dmitryd20/vk-files)|🚀🧰🕊️|
 ||Маевский Владислав|1. Приложение для учета выпитой воды|||
 ||Абдулаев Магомед|3. Картина в AR|[Marcus05dag/FirstRepository](https://github.com/Marcus05dag/FirstRepository)|🧰|
 ||||||

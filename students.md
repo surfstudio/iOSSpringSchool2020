@@ -31,7 +31,7 @@
 ||Пастухова Кристина|x. Codenames||🚀|
 ||||||
 |**Йорданов**|Князьков Илья|10. Справочник по фильмам|[Stampoo/filmInfo](https://github.com/Stampoo/filmInfo)|🚀🧰|
-|**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR||🚀|
+|**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR|[BassistZero/ARGallery](https://github.com/BassistZero/ARGallery)|🚀|
 ||Дунаев Владислав|7. Просмотрщик xkcd комиксов|||
 ||Межевов Кирилл|9. Гайд по уровням жизни в городах||🚀|
 ||Владыкина Анастасия|16. Интернет радио|[AVladykina/SurfSchoolRadio](https://github.com/AVladykina/SurfSchoolRadio)|🚀🧰🕊️|

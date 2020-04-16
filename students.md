@@ -37,7 +37,7 @@
 ||Владыкина Анастасия|16. Интернет радио|[AVladykina/SurfSchoolRadio](https://github.com/AVladykina/SurfSchoolRadio)|🚀🧰🕊️🧭|
 ||||||
 |**Филимонов**|Ананьев Никита|15. Мой сад|[D1nsth/MyGarden](https://github.com/D1nsth/MyGarden)|🚀🧰🕊️🧭|
-|**[Чат&nbsp;группы](https://teleg.run/joinchat/EXbamxYk9un0x8O_NdhpvQ)**|Кожевников Никита|1. Приложение для учета выпитой воды||🚀|
+|**[Чат&nbsp;группы](https://teleg.run/joinchat/EXbamxYk9un0x8O_NdhpvQ)**|Кожевников Никита|1. Приложение для учета выпитой воды|[AccountingWater](https://github.com/NikitaStudent/AccountingWater)|🚀|
 ||Ралка Владислав|3. Картина в AR|[VladGrudak/argallery](https://github.com/VladGrudak/argallery)|🚀🧰|
 ||Сырцов Евгений|10. Справочник по фильмам|[jsyrtsov/TheMovieDatabase](https://github.com/jsyrtsov/TheMovieDatabase)|🚀🧰🕊️🧭|
 ||Борисов Андрей|5. Справочник продуктов питания|||

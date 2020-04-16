@@ -11,22 +11,22 @@
 ||Гончаров Андрей|11. Трекер ситуации по коронавирусу|[exib/Covid-19-Tracker](https://github.com/exib/Covid-19-Tracker)|🚀|
 ||Арысланов Игорь|x. Приложение для учёта тренировок|[iAryslanov/WorkoutDiary](https://github.com/iAryslanov/WorkoutDiary)|🚀🧰🕊️|
 ||||||
-|**Монаков**|Емельянов Егор|14. RestRoulette|[EgorIden/RestRouletteApp-Surf](https://github.com/EgorIden/RestRouletteApp-Surf)||
+|**Монаков**|Емельянов Егор|14. RestRoulette|[EgorIden/RestRouletteApp-Surf](https://github.com/EgorIden/RestRouletteApp-Surf)|🧭|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/Dw_smBwvth_xRoABWo3TKQ)**|Затонская Юлия|16. Интернет радио|[zatonskayay/Online-Radio](https://github.com/zatonskayay/Online-Radio)||
 ||Демьянов Дмитрий|8. Файловый менеджер VK|[dmitryd20/vk-files](https://github.com/dmitryd20/vk-files)|🚀🧰🕊️|
 ||Маевский Владислав|1. Приложение для учета выпитой воды|||
 ||Абдулаев Магомед|3. Картина в AR|[Marcus05dag/FirstRepository](https://github.com/Marcus05dag/FirstRepository)|🧰|
 ||||||
-|**Шабанов**|Быков Алексей|6. Гайд по персонажам Marvel|[AlexeyBull/iOSSpringSchoolSurf](https://github.com/AlexeyBull/iOSSpringSchoolSurf)|🧰🕊️|
+|**Шабанов**|Быков Алексей|6. Гайд по персонажам Marvel|[AlexeyBull/iOSSpringSchoolSurf](https://github.com/AlexeyBull/iOSSpringSchoolSurf)|🧰🕊️🧭|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DIFS4xrLMrpFNOsnl-8Uew)**|Решетов Виктор|14. RestRoulette|[CocoRyse/RestRoulette](https://github.com/CocoRyse/RestRoulette)|🕊️|
 ||Павленок Сергей|2. Рецепты коктейлей|[JustTeRoR/Cocktails-Book](https://github.com/JustTeRoR/Cocktails-Book)|🚀🧰🕊️|
 ||Белых Станислав|8. Файловый менеджер VK|[FileManagerVK](https://github.com/StanislavBelykh/FileManagerVK)|🧰|
 ||Кирпичников Алексей|10. Справочник по фильмам|||
 ||||||
 |**Бернгардт**|Сегал Захар|x. Apex Tracker|https://github.com/sofvckinmadguy/ApexTracker||
-|**[Чат&nbsp;группы](https://teleg.run/joinchat/ExB7NEmj4lQRsPVbHiEBxw)**|Новгородов Евгений|5. Справочник продуктов питания|[Blissfulman/FoodReferenceBook](https://github.com/Blissfulman/FoodReferenceBook)|🚀🕊️|
+|**[Чат&nbsp;группы](https://teleg.run/joinchat/ExB7NEmj4lQRsPVbHiEBxw)**|Новгородов Евгений|5. Справочник продуктов питания|[Blissfulman/FoodReferenceBook](https://github.com/Blissfulman/FoodReferenceBook)|🚀🕊️🧭|
 ||Родионов Дмитрий|12. Классификатор изображений|https://github.com/DmitriyRod/ImagesClassifier|🚀🕊️|
-||Колесникова Майя|1. Приложение для учета выпитой воды|[https://github.com/MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰|
+||Колесникова Майя|1. Приложение для учета выпитой воды|[https://github.com/MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰🧭|
 ||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️|
 ||Пастухова Кристина|x. Codenames||🚀|
 ||||||
@@ -34,12 +34,12 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR|[BassistZero/ARGallery](https://github.com/BassistZero/ARGallery)|🚀|
 ||Дунаев Владислав|7. Просмотрщик xkcd комиксов|||
 ||Межевов Кирилл|9. Гайд по уровням жизни в городах||🚀|
-||Владыкина Анастасия|16. Интернет радио|[AVladykina/SurfSchoolRadio](https://github.com/AVladykina/SurfSchoolRadio)|🚀🧰🕊️|
+||Владыкина Анастасия|16. Интернет радио|[AVladykina/SurfSchoolRadio](https://github.com/AVladykina/SurfSchoolRadio)|🚀🧰🕊️🧭|
 ||||||
-|**Филимонов**|Ананьев Никита|15. Мой сад|[D1nsth/MyGarden](https://github.com/D1nsth/MyGarden)|🚀🧰🕊️|
+|**Филимонов**|Ананьев Никита|15. Мой сад|[D1nsth/MyGarden](https://github.com/D1nsth/MyGarden)|🚀🧰🕊️🧭|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/EXbamxYk9un0x8O_NdhpvQ)**|Кожевников Никита|1. Приложение для учета выпитой воды||🚀|
 ||Ралка Владислав|3. Картина в AR|[VladGrudak/argallery](https://github.com/VladGrudak/argallery)|🚀🧰|
-||Сырцов Евгений|10. Справочник по фильмам|[jsyrtsov/TheMovieDatabase](https://github.com/jsyrtsov/TheMovieDatabase)|🚀🧰🕊️|
+||Сырцов Евгений|10. Справочник по фильмам|[jsyrtsov/TheMovieDatabase](https://github.com/jsyrtsov/TheMovieDatabase)|🚀🧰🕊️🧭|
 ||Борисов Андрей|5. Справочник продуктов питания|||
 ||||||
 |🤷🏻‍♂️|Аписов Вадим||||

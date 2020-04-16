@@ -8,7 +8,7 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/FtWLNBpXPgQwJ2n28gBxuA)**|Беликов Даниил|3. Картина в AR|[daniilbelikov/PictureInAR](https://github.com/daniilbelikov/PictureInAR)|🚀🕊️|
 ||Нестругина Виктория|12. Классификатор изображений|[VictoriiaNestrugina/SurfSpringSchoolProject](https://github.com/VictoriiaNestrugina/SurfSpringSchoolProject)|🚀🧰🕊️|
 ||Поваренков Игорь|8. Файловый менеджер VK|[stewko/Surf-VK-fileManager](https://github.com/stewko/Surf-VK-fileManager)|🚀🧰🕊️|
-||Гончаров Андрей|15. Мой сад|[exib/MyLovelyGarden](https://github.com/exib/MyLovelyGarden)|🚀|
+||Гончаров Андрей|11. Трекер ситуации по коронавирусу|[exib/Covid-19-Tracker](https://github.com/exib/Covid-19-Tracker)|🚀|
 ||Арысланов Игорь|x. Приложение для учёта тренировок|[iAryslanov/WorkoutDiary](https://github.com/iAryslanov/WorkoutDiary)|🚀🧰🕊️|
 ||||||
 |**Монаков**|Емельянов Егор|14. RestRoulette|[EgorIden/RestRouletteApp-Surf](https://github.com/EgorIden/RestRouletteApp-Surf)||

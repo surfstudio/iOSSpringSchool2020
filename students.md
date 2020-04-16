@@ -7,7 +7,7 @@
 |**Крупенько**|Миливоевич Стефан|14. RestRoulette||🚀|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/FtWLNBpXPgQwJ2n28gBxuA)**|Беликов Даниил|3. Картина в AR|[daniilbelikov/PictureInAR](https://github.com/daniilbelikov/PictureInAR)|🚀🕊️|
 ||Нестругина Виктория|12. Классификатор изображений|[VictoriiaNestrugina/SurfSpringSchoolProject](https://github.com/VictoriiaNestrugina/SurfSpringSchoolProject)|🚀🧰🕊️|
-||Поваренков Игорь|8. Файловый менеджер VK||🚀🧰🕊️|
+||Поваренков Игорь|8. Файловый менеджер VK|[stewko/Surf-VK-fileManager](https://github.com/stewko/Surf-VK-fileManager)|🚀🧰🕊️|
 ||Гончаров Андрей|15. Мой сад|[exib/MyLovelyGarden](https://github.com/exib/MyLovelyGarden)|🚀|
 ||Арысланов Игорь|x. Приложение для учёта тренировок|[iAryslanov/WorkoutDiary](https://github.com/iAryslanov/WorkoutDiary)|🚀🧰🕊️|
 ||||||

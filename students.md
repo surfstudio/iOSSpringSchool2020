@@ -20,7 +20,7 @@
 |**Шабанов**|Быков Алексей|6. Гайд по персонажам Marvel|[AlexeyBull/iOSSpringSchoolSurf](https://github.com/AlexeyBull/iOSSpringSchoolSurf)|🧰🕊️|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DIFS4xrLMrpFNOsnl-8Uew)**|Решетов Виктор|14. RestRoulette|[CocoRyse/RestRoulette](https://github.com/CocoRyse/RestRoulette)|🕊️|
 ||Павленок Сергей|2. Рецепты коктейлей|[JustTeRoR/Cocktails-Book](https://github.com/JustTeRoR/Cocktails-Book)|🚀🧰🕊️|
-||Белых Станислав|8. Файловый менеджер VK||🧰|
+||Белых Станислав|8. Файловый менеджер VK|[FileManagerVK](https://github.com/StanislavBelykh/FileManagerVK)|🧰|
 ||Кирпичников Алексей|10. Справочник по фильмам|||
 ||||||
 |**Бернгардт**|Сегал Захар|x. Apex Tracker|https://github.com/sofvckinmadguy/ApexTracker||

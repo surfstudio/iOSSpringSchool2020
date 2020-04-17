@@ -40,7 +40,7 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/EXbamxYk9un0x8O_NdhpvQ)**|Кожевников Никита|1. Приложение для учета выпитой воды||🚀|
 ||Ралка Владислав|3. Картина в AR|[VladGrudak/argallery](https://github.com/VladGrudak/argallery)|🚀🧰|
 ||Сырцов Евгений|10. Справочник по фильмам|[jsyrtsov/TheMovieDatabase](https://github.com/jsyrtsov/TheMovieDatabase)|🚀🧰🕊️🧭|
-||Борисов Андрей|5. Справочник продуктов питания|||
+||Борисов Андрей|5. Справочник продуктов питания|[Bildos/FindFood](https://github.com/Bildos/FindFood)||
 ||||||
 |🤷🏻‍♂️|Аписов Вадим||||
 

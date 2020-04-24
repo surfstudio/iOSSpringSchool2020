@@ -13,7 +13,7 @@
 ||||||
 |**Монаков**|Емельянов Егор|14. RestRoulette|[EgorIden/RestRouletteApp-Surf](https://github.com/EgorIden/RestRouletteApp-Surf)|🧭🌐|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/Dw_smBwvth_xRoABWo3TKQ)**|Затонская Юлия|16. Интернет радио|[zatonskayay/Online-Radio](https://github.com/zatonskayay/Online-Radio)||
-||Демьянов Дмитрий|8. Файловый менеджер VK|[dmitryd20/vk-files](https://github.com/dmitryd20/vk-files)|🚀🧰🕊️🖼|
+||Демьянов Дмитрий|8. Файловый менеджер VK|[dmitryd20/vk-files](https://github.com/dmitryd20/vk-files)|🚀🧰🕊️🖼🌐|
 ||Маевский Владислав|1. Приложение для учета выпитой воды|||
 ||Абдулаев Магомед|3. Картина в AR|[Marcus05dag/FirstRepository](https://github.com/Marcus05dag/FirstRepository)|🧰|
 ||||||
@@ -27,7 +27,7 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/ExB7NEmj4lQRsPVbHiEBxw)**|Новгородов Евгений|5. Справочник продуктов питания|[Blissfulman/FoodReferenceBook](https://github.com/Blissfulman/FoodReferenceBook)|🚀🕊️🧭🖼🌐|
 ||Родионов Дмитрий|12. Классификатор изображений|[DmitriyRod/ImagesClassifier](https://github.com/DmitriyRod/ImagesClassifier)|🚀🕊️🖼🌐|
 ||Колесникова Майя|1. Приложение для учета выпитой воды|[MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰🧭|
-||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️|
+||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️🌐|
 ||Пастухова Кристина|x. Codenames||🚀🌐|
 ||||||
 |**Йорданов**|Князьков Илья|10. Справочник по фильмам|[Stampoo/filmInfo](https://github.com/Stampoo/filmInfo)|🚀🧰🌐|

@@ -36,7 +36,7 @@
 
 ### Keychain
 
-* [Storing Keys in the Keychain | Apple Developer Documentation](https://developer.apple.com/documentation/security/certificate_key_and_trust_services/keys/storing_keys_in_the_keychain)
+* [Storing Keys in the Keychain. Apple Developer Documentation](https://developer.apple.com/documentation/security/certificate_key_and_trust_services/keys/storing_keys_in_the_keychain)
 * [Библиотека для использования Keychain](https://github.com/evgenyneu/keychain-swift)
 
 ### URLCache

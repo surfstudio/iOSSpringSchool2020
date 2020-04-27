@@ -21,9 +21,9 @@
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DIFS4xrLMrpFNOsnl-8Uew)**|Решетов Виктор|14. RestRoulette|[CocoRyse/RestRoulette](https://github.com/CocoRyse/RestRoulette)|🕊️|
 ||Павленок Сергей|2. Рецепты коктейлей|[JustTeRoR/Cocktails-Book](https://github.com/JustTeRoR/Cocktails-Book)|🚀🧰🕊️|
 ||Белых Станислав|8. Файловый менеджер VK|[FileManagerVK](https://github.com/StanislavBelykh/FileManagerVK)|🧰🖼👀|
-||Кирпичников Алексей|10. Справочник по фильмам|https://github.com/ss-alex/PeliculaApp|🌐|
+||Кирпичников Алексей|10. Справочник по фильмам|[ss-alex/PeliculaApp](https://github.com/ss-alex/PeliculaApp)|🌐|
 ||||||
-|**Бернгардт**|Сегал Захар|x. Apex Tracker|https://github.com/sofvckinmadguy/ApexTracker|🖼🌐|
+|**Бернгардт**|Сегал Захар|x. Apex Tracker|[sofvckinmadguy/ApexTracker](https://github.com/sofvckinmadguy/ApexTracker)|🖼🌐|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/ExB7NEmj4lQRsPVbHiEBxw)**|Новгородов Евгений|5. Справочник продуктов питания|[Blissfulman/FoodReferenceBook](https://github.com/Blissfulman/FoodReferenceBook)|🚀🕊️🧭🖼🌐|
 ||Родионов Дмитрий|12. Классификатор изображений|[DmitriyRod/ImagesClassifier](https://github.com/DmitriyRod/ImagesClassifier)|🚀🕊️🖼🌐|
 ||Колесникова Майя|1. Приложение для учета выпитой воды|[MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰🧭|

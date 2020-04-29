@@ -11,7 +11,7 @@
 5. [20.04 User Interface](lectures/lecture05/README.md)
 6. [22.04 Данные. Получение и отправка](lectures/lecture06/README.md)
 7. [27.04 Данные. Обработка и хранение](lectures/lecture07/README.md)
-8. 29.04 Работа с асинхронными задачами
+8. [29.04 Работа с асинхронными задачами](lectures/lecture08/README.md)
 9. 4.05 iOS разработчик
 10. 6.05 Заключительная лекция
 

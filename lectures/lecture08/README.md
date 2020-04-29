@@ -5,7 +5,7 @@
 ## 📚 Материалы
 
 * [Слайды встречи 29 апреля. Инструменты](Lecture_08.pdf)
-* [Архив с Playgrounds](lecture8Playgrounds.zip)
+* [Архив с Playgrounds](lecture8playgrounds.zip)
 
 ## 🖇️ Ссылки
 

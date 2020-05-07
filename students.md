@@ -30,7 +30,7 @@
 ||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️🌐|
 ||Пастухова Кристина|x. Codenames||🚀🌐💾|
 ||||||
-|**Йорданов**|Князьков Илья|10. Справочник по фильмам|[Stampoo/filmInfo](https://github.com/Stampoo/filmInfo)|🚀🧰🌐👀🚥|
+|**Йорданов**|Князьков Илья|10. Справочник по фильмам|[Stampoo/Movie-Searcher](https://github.com/Stampoo/Movie-Searcher)|🚀🧰🌐👀🚥|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR|[BassistZero/ARGallery](https://github.com/BassistZero/ARGallery)|🚀|
 ||Дунаев Владислав|7. Просмотрщик xkcd комиксов|||
 ||Межевов Кирилл|9. Гайд по уровням жизни в городах|[kirrealdev/cityLifeGuide](https://github.com/kirrealdev/cityLifeGuide)|🚀|

@@ -28,7 +28,7 @@
 ||Родионов Дмитрий|12. Классификатор изображений|[DmitriyRod/ImagesClassifier](https://github.com/DmitriyRod/ImagesClassifier)|🚀🕊️🖼🌐💾🚥|
 ||Колесникова Майя|1. Приложение для учета выпитой воды|[MaykaPeach/watertracker](https://github.com/MaykaPeach/watertracker)|🧰🧭|
 ||Королёв Александр|3. Картина в AR|[Arseburger/AR_Painting](https://github.com/Arseburger/AR_Painting)|🧰🕊️🌐|
-||Пастухова Кристина|x. Codenames||🚀🌐💾|
+||Пастухова Кристина|x. Codenames|[KristelWhite/Codenames] (https://github.com/KristelWhite/Codenames.git)|🚀🌐💾|
 ||||||
 |**Йорданов**|Князьков Илья|10. Справочник по фильмам|[Stampoo/Movie-Searcher](https://github.com/Stampoo/Movie-Searcher)|🚀🧰🌐👀🚥|
 |**[Чат&nbsp;группы](https://teleg.run/joinchat/DPy3hBYV2WTHGgd3ig-_hg)**|Осыкин Дмитрий|3. Картина в AR|[BassistZero/ARGallery](https://github.com/BassistZero/ARGallery)|🚀|
